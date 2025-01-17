@@ -1,5 +1,4 @@
 
-
 Cat and Dog Image Classification Using CNN
 
 This repository contains a deep learning project to classify images of cats and dogs using a Convolutional Neural Network (CNN). The project includes training a model on labeled data, evaluating its performance, and making predictions on unseen images.
