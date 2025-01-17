@@ -1,1 +1,0 @@
-# projects- mnist digit recognition 
